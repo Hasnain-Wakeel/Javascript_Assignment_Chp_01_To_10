@@ -70,6 +70,7 @@ console.log(greeting)
 
 
 
+
 // Topic 3 : Variables For Numbers ------------------------
 
 
@@ -203,6 +204,7 @@ console.log("You are from " + CityName)
 
 
 
+
 // Topic 6 : Conditional Statements and Comparison Operators -------
 
 
@@ -286,3 +288,7 @@ console.log(value1 != value2);   // false
 // Strict inequality (!==): compares value and type
 
 console.log(value1 !== value2);  // true
+
+
+
+// ----------------------------- Assignment Completed -------------------------------
